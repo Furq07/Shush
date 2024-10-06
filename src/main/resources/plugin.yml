@@ -1,0 +1,11 @@
+name: Shush
+version: '${version}'
+main: dev.furq.shush.Shush
+api-version: '1.8'
+authors: [ Furq ]
+description: A plugin that allows players to mute other players' messages for themselves.
+commands:
+  shush:
+    description: Mute or unmute a player's messages for yourself
+    usage: /shush <player>
+    tabCompleter: dev.furq.shush.utils.TabCompleter

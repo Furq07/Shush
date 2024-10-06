@@ -1,0 +1,11 @@
+prefix: "&7[&bShush&7]"
+messages:
+  only_players: "&aThis command can only be used by players."
+  usage: "&aUsage: &c/shush <player>"
+  player_not_found: "&aPlayer not found."
+  muted: "&aYou have muted {player}'s messages."
+  unmuted: "&aYou have unmuted {player}'s messages."
+  config_reloaded: "&aConfiguration reloaded successfully."
+  no_permission: "&cYou don't have permission to use this command."
+  cannot_message_muted: "&cYou can't message this player because you have been muted by them."
+  cannot_mute_bypass: "&cYou cannot mute this player as they have bypass permission."
