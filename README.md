@@ -76,7 +76,7 @@ Allows players to mute other players' messages for themselves, providing a perso
 
 ## 📞 **Support**
 
-For assistance, visit the [GitHub Repository](https://github.com/furq07/shush/issues) or join our [Discord Server](https://discord.gg/7ugrBEKza4).
+For assistance, visit the [GitHub Repository](https://github.com/furq07/shush/issues) or join our [Discord Server](https://discord.gg/XhZzmvzPDV).
 
 ---
 
